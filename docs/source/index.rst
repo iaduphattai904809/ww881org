@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+WW88 là nhà cái hàng đầu châu Á và Việt Nam - ww881.org
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Giới thiệu `WW88 <https://ww881.org/>`_ là nhà cái đã thành lập và hoạt động được hơn 10 năm trong thị trường cá cược trực tuyến châu Á nói chung và thị trường tại Việt Nam nói riêng. Trong suốt thời gian hoạt động bền bỉ này, nhà cái WW 88 đã cung cấp hàng trăm trò chơi Casino online, cá cược thể thao, đá gà,...đến nay, nhà cái đã có hàng triệu lượt khách hàng truy cập mỗi ngày. Cùng tìm hiểu về những điểm đặc biệt giúp nhà cái WW88 được yêu thích đến thế ngay sau đây.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 107 Đ. An Dương Vương, An Lạc, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0923464410. 
 
-Contents
---------
+Email: info@ww881.org. 
 
-.. toctree::
+Website: https://ww881.org/
 
-   usage
-   api
+#ww88 #ww881org #nhacaiww88 #ww88casino
